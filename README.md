@@ -1,5 +1,3 @@
-Here’s a suggested README for the **CareChain** project, including a brief description and key features.
-
 ---
 
 # CareChain
